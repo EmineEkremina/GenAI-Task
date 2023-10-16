@@ -44,8 +44,8 @@ The dataset used in this project can be found [here](https://github.com/nailson/
 - "How many web visits does the customer with ID 5324 have per month?"
 
 ## Screenshots
+<img width="980" alt="Screenshot 2023-10-16 at 16 28 53" src="https://github.com/EmineEkremina/GenAI-Task/assets/116720974/e6529e39-8d12-4368-bb21-42433ea032b0">
 
-Include a few screenshots of the chatbot in action.
 
 ## License
 
